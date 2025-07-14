@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### SSD ERP
 
 All customization of ERPNext
@@ -39,3 +40,7 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 ### License
 
 mit
+=======
+# ssd_erp
+All customization of ERPNext
+>>>>>>> c2e5f6d762c44c47d89a024daebb2a1456b3e143
